@@ -3,7 +3,11 @@
 
 Our project is a program that renders and outputs png images with ray-tracing technique, given scene files with models in .ply format.
 
-## Youtube video: https://youtu.be/zG0XBcqhRsE
+## Youtube video: Instruction
+
+[![https://youtu.be/zG0XBcqhRsE](https://img.youtube.com/vi/zG0XBcqhRsE/0.jpg)](https://www.youtube.com/watch?v=zG0XBcqhRsE)
+
+View on YouTube: [https://youtu.be/zG0XBcqhRsE](https://youtu.be/zG0XBcqhRsE)
 
 ## Screenshots
 
