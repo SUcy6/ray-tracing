@@ -21,9 +21,8 @@ The balls are drawed with randomly generated geometry data (center position, rad
 
 **Defocus Blur** - results of different camera aperture
 
-<img src="./media/7.png" width="48%"> <img src="./media/8.png" width="48%">
-
-<pre>Aperture = 1                                                    Aperture = 0.1</pre>
+<img src="./media/7.png" width="49%"> <img src="./media/8.png" width="49%">
+[Left]: *Aperture = 1*; [Right]: *Aperture = 0.1*
 
 **Number of samples per pixe**l - increase the number of samples per pixel can produce better results but it takes more time. On my laptop, it takes more than one hour for one image with 100 samples per pixel. 300 samples and 500 samples take even more time.
 
