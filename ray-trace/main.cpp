@@ -209,10 +209,10 @@ hitable *random_scene() {
             float choose_mat = drand48();
             vec3 center(i+0.9*drand48(), 0.2, j+0.9*drand48());
 
-            if (choose_mat < 0.8) {
+            if (choose_mat < 0.4) {
                 list[a++] = new sphere(center, 0.2, new lambertian(vec3(drand48()*drand48(), drand48()*drand48(), drand48()*drand48())));
             }
-            else if (choose_mat < 0.95) {
+            else if (choose_mat < 0.7) {
                 list[a++] = new sphere(center, 0.2, new metal(vec3(0.5*(1+drand48()), 0.5*(1+drand48()), 0.5*(1+drand48())), 0.5*(1+drand48())));
             }
             else {
@@ -221,8 +221,9 @@ hitable *random_scene() {
         }
     }
     list[a++] = new sphere(vec3(0,1,0), 1, new dielectric(1.5));
-    list[a++] = new sphere(vec3(-4,1,0), 1, new lambertian(vec3(0.4,0.2,0.1)));
-    list[a++] = new sphere(vec3(4,1,0), 1, new metal(vec3(0.7, 0.6, 0.5), 0));
+    list[a++] = new sphere(vec3(-4,1,-2), 1, new lambertian(vec3(0.4,0.2,0.1)));
+    list[a++] = new sphere(vec3(4,1,2), 1, new metal(vec3(0.7, 0.6, 0.5), 0));
+    list[a++] = new sphere(vec3(5,1,1), 0.5, new metal(vec3(0.5, 0.4, 0.7), 0));
 
     return new hitable_list(list, a);
 }
