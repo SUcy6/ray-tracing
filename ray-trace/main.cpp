@@ -41,7 +41,7 @@ int main()
     // window heigth and width
     int width = 800; int height = 400;
     // sample per pixel
-    int ns = 100;
+    int ns = 500;
 
     // sphere
     // sphere = vec3(0,0,-1);
@@ -212,7 +212,7 @@ hitable *random_scene() {
             if (choose_mat < 0.4) {
                 list[a++] = new sphere(center, 0.2, new lambertian(vec3(drand48()*drand48(), drand48()*drand48(), drand48()*drand48())));
             }
-            else if (choose_mat < 0.7) {
+            else if (choose_mat < 0.8) {
                 list[a++] = new sphere(center, 0.2, new metal(vec3(0.5*(1+drand48()), 0.5*(1+drand48()), 0.5*(1+drand48())), 0.5*(1+drand48())));
             }
             else {
@@ -221,9 +221,9 @@ hitable *random_scene() {
         }
     }
     list[a++] = new sphere(vec3(0,1,0), 1, new dielectric(1.5));
-    list[a++] = new sphere(vec3(-4,1,-2), 1, new lambertian(vec3(0.4,0.2,0.1)));
-    list[a++] = new sphere(vec3(4,1,2), 1, new metal(vec3(0.7, 0.6, 0.5), 0));
-    list[a++] = new sphere(vec3(5,1,1), 0.5, new metal(vec3(0.5, 0.4, 0.7), 0));
+    list[a++] = new sphere(vec3(-4,1,-4), 1, new lambertian(vec3(0.1,0.2,0.4)));
+    list[a++] = new sphere(vec3(4,1,4), 1, new metal(vec3(0.7, 0.6, 0.5), 0));
+    list[a++] = new sphere(vec3(5,0.5,1), 0.5, new metal(vec3(0.5, 0.4, 0.7), 0));
 
     return new hitable_list(list, a);
 }
