@@ -1,6 +1,5 @@
 # Ray Tracing
-
----
+Project for computer graphics courses
 
 ## 👍Intro:
 
@@ -10,7 +9,7 @@ Ray-tracing is a technique for computing intersections between rays and surfaces
 
 In this project, we have generated scenes with [random balls](https://github.com/SUcy6/ray-tracing/tree/main/ray-trace) and more complex scenes with [cool models](https://github.com/SUcy6/ray-tracing/tree/main/scene-raytrace1) (customized files). Due to time and resources limits, the results may not be of really high-quality, but they are already pretty cool.
 
----
+
 
 ## ⚽Random Balls:
 
@@ -42,7 +41,7 @@ Aperture = 0.1
 
 300 samples per pixel 
 
----
+
 
 ## 🙉 Scene with more complex models
 
@@ -56,9 +55,9 @@ Balls are regular shapes, that means they are easy to manipulate. When it comes 
 
 ![output_tea.png](Ray%20Tracing%20cd3871c112ea4ff3a7adfe37b2f1f095/output_tea.png)
 
----
 
-### Reference materials:
+
+## Reference materials:
 
 *[An Overview of the Ray-Tracing Rendering Technique](https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-overview) and its following-up tutorials*
 
