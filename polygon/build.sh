@@ -1,0 +1,1 @@
+g++ -U__STRICT_ANSI__ -o raytracepolymesh raytracepolymesh.cpp -std=c++11 -O3
