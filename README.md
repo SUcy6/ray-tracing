@@ -17,27 +17,21 @@ The balls are drawed with randomly generated geometry data (center position, rad
 
 ### Some results:
 
-**Three different materials** - lambertian (middle), metal (top), and dielectric (bottom).
-
-![6b.png](Ray%20Tracing%20cd3871c112ea4ff3a7adfe37b2f1f095/6b.png)
+**Three different materials** - lambertian (middle), metal (top), and dielectric (bottom).<img src="./media/6b.png" width="45%"> 
 
 **Defocus Blur** - results of different camera aperture
 
-![Aperture = 1](Ray%20Tracing%20cd3871c112ea4ff3a7adfe37b2f1f095/7.png)
+<img src="./media/7.png" width="48%"> <img src="./media/8.png" width="48%">
 
-Aperture = 1
-
-![Aperture = 0.1](Ray%20Tracing%20cd3871c112ea4ff3a7adfe37b2f1f095/8.png)
-
-Aperture = 0.1
+<pre>Aperture = 1                                                    Aperture = 0.1</pre>
 
 **Number of samples per pixe**l - increase the number of samples per pixel can produce better results but it takes more time. On my laptop, it takes more than one hour for one image with 100 samples per pixel. 300 samples and 500 samples take even more time.
 
-![100 samples per pixel ( I wrongly set the position of the purple metal ball here. That’s why it is floating : (](Ray%20Tracing%20cd3871c112ea4ff3a7adfe37b2f1f095/9.png)
+![100 samples per pixel ( I wrongly set the position of the purple metal ball here. That’s why it is floating : (](./media/9.png)
 
 100 samples per pixel ( I wrongly set the position of the purple metal ball here. That’s why it is floating : (
 
-![300 samples per pixel ](Ray%20Tracing%20cd3871c112ea4ff3a7adfe37b2f1f095/10.png)
+![300 samples per pixel ](./media/10.png)
 
 300 samples per pixel 
 
@@ -49,12 +43,7 @@ Balls are regular shapes, that means they are easy to manipulate. When it comes 
 
 ### Results:
 
-![output_mon.png](Ray%20Tracing%20cd3871c112ea4ff3a7adfe37b2f1f095/output_mon.png)
-
-![output_spheres.png](Ray%20Tracing%20cd3871c112ea4ff3a7adfe37b2f1f095/output_spheres.png)
-
-![output_tea.png](Ray%20Tracing%20cd3871c112ea4ff3a7adfe37b2f1f095/output_tea.png)
-
+<img src="./media/output_mon.png" width="33%"><img src="./media/output_spheres.png" width="33%"><img src="./media/output_tea.png" width="33%">
 
 
 ## Reference materials:
