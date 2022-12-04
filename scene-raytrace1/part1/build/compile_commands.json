@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/build",
+  "command": "/usr/bin/clang++  -I\"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Utils/glm\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/Main.dir/Utils/lodepng.cpp.o -c \"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Utils/lodepng.cpp\"",
+  "file": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Utils/lodepng.cpp"
+},
+{
+  "directory": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/build",
+  "command": "/usr/bin/clang++  -I\"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Utils/glm\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/Main.dir/Camera.cpp.o -c \"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Camera.cpp\"",
+  "file": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Camera.cpp"
+},
+{
+  "directory": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/build",
+  "command": "/usr/bin/clang++  -I\"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Utils/glm\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/Main.dir/Hittable.cpp.o -c \"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Hittable.cpp\"",
+  "file": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Hittable.cpp"
+},
+{
+  "directory": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/build",
+  "command": "/usr/bin/clang++  -I\"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Utils/glm\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/Main.dir/Material.cpp.o -c \"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Material.cpp\"",
+  "file": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Material.cpp"
+},
+{
+  "directory": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/build",
+  "command": "/usr/bin/clang++  -I\"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Utils/glm\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/Main.dir/Ray.cpp.o -c \"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Ray.cpp\"",
+  "file": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Ray.cpp"
+},
+{
+  "directory": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/build",
+  "command": "/usr/bin/clang++  -I\"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Utils/glm\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/Main.dir/Scene.cpp.o -c \"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Scene.cpp\"",
+  "file": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Scene.cpp"
+},
+{
+  "directory": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/build",
+  "command": "/usr/bin/clang++  -I\"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/Utils/glm\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/Main.dir/main.cpp.o -c \"/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/main.cpp\"",
+  "file": "/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/main.cpp"
+}
+]

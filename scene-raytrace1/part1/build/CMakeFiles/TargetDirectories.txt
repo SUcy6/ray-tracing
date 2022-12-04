@@ -1,0 +1,3 @@
+/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/build/CMakeFiles/Main.dir
+/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/build/CMakeFiles/edit_cache.dir
+/Users/suchangyue/Desktop/CS4300/A4 temp/assignment/PA3/Graphics_PA3_Release/build/CMakeFiles/rebuild_cache.dir
