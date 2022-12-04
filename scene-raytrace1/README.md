@@ -8,13 +8,8 @@ Our project is a program that renders and outputs png images with ray-tracing te
 
 ## Screenshots
 
-![output_sphere.png](README%20b79b353ee6cf44a9a034c8bee32b12ff/output_sphere.png)
-
-![output_mon.png](README%20b79b353ee6cf44a9a034c8bee32b12ff/output_mon.png)
-
-![output_spheres.png](README%20b79b353ee6cf44a9a034c8bee32b12ff/output_spheres.png)
-
-![output_tea.png](README%20b79b353ee6cf44a9a034c8bee32b12ff/output_tea.png)
+<img src="./output_sphere.png" alt="output" width="45%"/><img src="./output_mon.png" alt="output" width="45%"/>
+<img src="./output_spheres.png" alt="output" width="45%"/><img src="./output_tea.png" alt="output" width="45%"/>
 
 - Name and partners name(At most teams of 2 folks total)
     - Team member 1: *Changyue Su*
