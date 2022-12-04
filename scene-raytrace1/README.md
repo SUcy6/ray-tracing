@@ -1,4 +1,3 @@
-# README
 
 ## Ray-tracing Rendering
 
