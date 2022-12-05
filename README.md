@@ -34,7 +34,9 @@ The balls are drawed with randomly generated geometry data (center position, rad
 
 300 samples per pixel 
 
+![300 samples per pixel ](./media/11.png)
 
+500 samples per pixel
 
 ## 🙉 Scene with more complex models
 
