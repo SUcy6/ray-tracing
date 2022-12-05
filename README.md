@@ -17,7 +17,7 @@ The balls are drawed with randomly generated geometry data (center position, rad
 
 ### Some results:
 
-**Three different materials** - lambertian (middle), metal (top), and dielectric (bottom).<img src="./media/6b.png" width="48%"> 
+**Three different materials** - lambertian (middle), metal (top), and dielectric (bottom).<img src="./media/6b.png" width="49%"> 
 
 **Defocus Blur** - results of different camera aperture
 
