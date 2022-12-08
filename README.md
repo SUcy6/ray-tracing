@@ -1,6 +1,8 @@
 # Ray Tracing
 Project for computer graphics courses
 
+Changyue Su, Wenran Zhao
+
 ## 👍Intro:
 
 This project is about building a basic ray tracer for simple scenes. 
